@@ -9,21 +9,12 @@
 ISBN: 9787121311406
 ---
 
-## Part1
+## Part1  初始：大话产品经理
 
-比识字、算数更重要的三件事：
-Be Ready
-Be Responsible
-Be Respectful
+> 人人都是产品经理应理解为：人人都应该学习产品经理的思维方式，来提升自己的专业能力
 
+> 过山洞？采集需求
+* 更多选择
+* 价值判断
 
-Give me five:
-My body is up tall
-My eyes are looking
-My ears are listening
-My mouth is closed
-My head is thinking
-
-Play-based or Adademic-based
-
-## Part2 Coaching parents to stimulate children's unlimited potential
+## Part2  产品：关键词与分类
