@@ -9,7 +9,7 @@
 * Be Respectful
 
 
-Give me five:
+> Give me five:
 * My body is up tall
 * My eyes are looking
 * My ears are listening
