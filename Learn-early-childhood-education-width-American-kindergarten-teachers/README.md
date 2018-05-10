@@ -19,3 +19,10 @@
 > Play-based or Adademic-based
 
 ## Part2 Coaching parents to stimulate children's unlimited potential
+
+> 一个中心
+* 多元化的良性刺激
+
+> 五个基本点
+* 温柔对待
+* 重视数学启蒙
